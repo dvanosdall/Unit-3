@@ -1,0 +1,2365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-01",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  48.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  33.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1017.9",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "982.0",
+                "STP_ATTRIBUTES": "20",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 13.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 18.1",
+                "GUST": " 28.0",
+                "MAX": "  72.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  39.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "I",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-02",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  40.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  23.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1025.9",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "987.9",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 15.9",
+                "MAX": "  54.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-03",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  44.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  23.5",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "986.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 21.0",
+                "GUST": " 29.9",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-04",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  39.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  16.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1026.7",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "988.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 10.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 20.0",
+                "GUST": " 27.0",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-05",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  23.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1023.4",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "985.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.0",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 15.9",
+                "MAX": "  53.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-06",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  46.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  40.7",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1012.8",
+                "SLP_ATTRIBUTES": "16",
+                "STP": "973.7",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  8.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 13.0",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 20.0",
+                "GUST": " 42.0",
+                "MAX": "  60.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.55",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-07",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  33.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  19.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1022.7",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "984.5",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 14.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 24.1",
+                "GUST": " 41.0",
+                "MAX": "  42.1",
+                "MAX_ATTRIBUTES": "*",
+                "MIN": "  28.0",
+                "MIN_ATTRIBUTES": "*",
+                "PRCP": " 0.06",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-08",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  30.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  19.1",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1025.7",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "987.2",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 11.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 17.1",
+                "GUST": " 26.0",
+                "MAX": "  42.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  24.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-09",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  30.9",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  13.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.6",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "986.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  9.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.9",
+                "GUST": " 27.0",
+                "MAX": "  44.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  21.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-10",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  33.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  20.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1019.6",
+                "SLP_ATTRIBUTES": "15",
+                "STP": "981.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  7.3",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  6.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 17.1",
+                "GUST": " 33.0",
+                "MAX": "  44.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  21.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.12",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  2.0",
+                "FRSHTT": "011000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-11",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  33.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  29.3",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1012.9",
+                "SLP_ATTRIBUTES": "21",
+                "STP": "974.4",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  8.2",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  9.2",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 21.0",
+                "MAX": "  35.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.93",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-12",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  32.5",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  25.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1019.4",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "981.2",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.0",
+                "GUST": "999.9",
+                "MAX": "  45.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  24.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-13",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.9",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  31.5",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1021.7",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "983.8",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.9",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  3.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  9.9",
+                "GUST": "999.9",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  24.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.01",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-14",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  40.6",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  22.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1026.1",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "988.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 20.0",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "I",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-15",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  41.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  21.6",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1029.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "991.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.2",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": "999.9",
+                "MAX": "  52.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-16",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  43.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  24.9",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.2",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "986.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.9",
+                "GUST": " 27.0",
+                "MAX": "  57.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  33.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-17",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  46.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  25.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1019.8",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "982.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.9",
+                "GUST": "999.9",
+                "MAX": "  60.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  33.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-18",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  50.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  40.9",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1012.8",
+                "SLP_ATTRIBUTES": "23",
+                "STP": "975.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  8.9",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  6.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": "999.9",
+                "MAX": "  60.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  34.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.52",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-19",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  46.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1012.4",
+                "SLP_ATTRIBUTES": "20",
+                "STP": "974.7",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  5.1",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  9.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 20.0",
+                "GUST": " 40.0",
+                "MAX": "  60.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  33.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.18",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "110000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-20",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  26.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "   6.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1028.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "989.7",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 12.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 18.1",
+                "GUST": " 35.9",
+                "MAX": "  33.1",
+                "MAX_ATTRIBUTES": "*",
+                "MIN": "  18.0",
+                "MIN_ATTRIBUTES": "*",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-21",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  23.9",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "   6.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1032.7",
+                "SLP_ATTRIBUTES": "21",
+                "STP": "993.5",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 20.0",
+                "MAX": "  32.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  18.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "101000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-22",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  24.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "   8.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1030.6",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "991.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 21.0",
+                "MAX": "  36.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  14.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.07",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-23",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  31.3",
+                "TEMP_ATTRIBUTES": "22",
+                "DEWP": "  13.5",
+                "DEWP_ATTRIBUTES": "22",
+                "SLP": "1028.1",
+                "SLP_ATTRIBUTES": "22",
+                "STP": "989.9",
+                "STP_ATTRIBUTES": " 6",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "22",
+                "WDSP": "  3.8",
+                "WDSP_ATTRIBUTES": "22",
+                "MXSPD": "  8.0",
+                "GUST": "999.9",
+                "MAX": "  41.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  14.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "  1.2",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-24",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  35.3",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  17.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1026.8",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "999.9",
+                "STP_ATTRIBUTES": " 0",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 20.0",
+                "MAX": "  51.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  25.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-25",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  37.7",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  16.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1030.0",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "991.9",
+                "STP_ATTRIBUTES": "21",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  7.0",
+                "GUST": "999.9",
+                "MAX": "  52.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  25.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-26",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  22.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1029.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "991.4",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  3.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.9",
+                "GUST": "999.9",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  26.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-27",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  48.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.5",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1022.2",
+                "SLP_ATTRIBUTES": "20",
+                "STP": "985.4",
+                "STP_ATTRIBUTES": "14",
+                "VISIB": "  6.1",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  3.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.9",
+                "GUST": "999.9",
+                "MAX": "  55.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.26",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-28",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  44.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  33.3",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "999.9",
+                "STP_ATTRIBUTES": " 0",
+                "VISIB": "  9.7",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 19.0",
+                "MAX": "  59.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  33.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.10",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-29",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  52.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  32.3",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1017.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "999.9",
+                "STP_ATTRIBUTES": " 0",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  9.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 18.1",
+                "GUST": " 22.9",
+                "MAX": "  69.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  33.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-30",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  56.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  35.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1020.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "983.1",
+                "STP_ATTRIBUTES": "21",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.0",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 18.1",
+                "MAX": "  70.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  41.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-01-31",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  59.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  50.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1015.6",
+                "SLP_ATTRIBUTES": "20",
+                "STP": "978.4",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  8.2",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 13.0",
+                "GUST": " 21.0",
+                "MAX": "  70.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  44.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-01",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  53.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  44.9",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1019.0",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "981.4",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 21.0",
+                "GUST": " 31.1",
+                "MAX": "  64.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  44.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.40",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-02",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  54.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.3",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1023.4",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "986.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  9.9",
+                "GUST": " 15.0",
+                "MAX": "  69.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  44.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-03",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  57.5",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.1",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1022.1",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "984.9",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  3.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": "999.9",
+                "MAX": "  73.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  44.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-04",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  65.1",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  50.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1020.0",
+                "SLP_ATTRIBUTES": "22",
+                "STP": "983.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": " 19.0",
+                "MAX": "  77.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  44.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-05",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  64.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  56.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1020.9",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "984.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.6",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.9",
+                "GUST": "999.9",
+                "MAX": "  77.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  53.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-06",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  65.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  59.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.6",
+                "SLP_ATTRIBUTES": "20",
+                "STP": "982.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  7.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 14.0",
+                "GUST": " 20.0",
+                "MAX": "  73.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  53.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-07",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  67.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  60.1",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.6",
+                "SLP_ATTRIBUTES": "21",
+                "STP": "982.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  6.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 14.0",
+                "GUST": " 20.0",
+                "MAX": "  77.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  60.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.05",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-08",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  67.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  59.6",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.6",
+                "SLP_ATTRIBUTES": "20",
+                "STP": "982.2",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.6",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  6.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 14.0",
+                "GUST": " 22.0",
+                "MAX": "  77.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  62.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.01",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-09",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  67.6",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  60.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1017.7",
+                "SLP_ATTRIBUTES": "23",
+                "STP": "981.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.4",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.6",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.0",
+                "GUST": " 26.0",
+                "MAX": "  75.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  61.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-10",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  56.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  46.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1023.2",
+                "SLP_ATTRIBUTES": "22",
+                "STP": "986.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 20.0",
+                "MAX": "  73.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  46.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.10",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-11",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  48.3",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1020.9",
+                "SLP_ATTRIBUTES": "22",
+                "STP": "983.8",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  6.2",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 10.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 17.1",
+                "GUST": " 22.0",
+                "MAX": "  60.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  41.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.01",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-12",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  40.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  38.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1015.0",
+                "SLP_ATTRIBUTES": "19",
+                "STP": "977.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  2.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  9.6",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.0",
+                "GUST": " 19.0",
+                "MAX": "  52.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  39.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.67",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-13",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  48.4",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  42.7",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.2",
+                "SLP_ATTRIBUTES": "16",
+                "STP": "979.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  4.7",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.6",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.0",
+                "GUST": " 27.0",
+                "MAX": "  61.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  39.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 3.29",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-14",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  28.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1031.6",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "993.5",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.9",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": "999.9",
+                "MAX": "  61.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  28.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 1.06",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-15",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  47.5",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  38.3",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.6",
+                "SLP_ATTRIBUTES": "22",
+                "STP": "987.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  4.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.2",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 12.0",
+                "GUST": " 20.0",
+                "MAX": "  57.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  28.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.01",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "110000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-16",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  53.9",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  48.0",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1011.5",
+                "SLP_ATTRIBUTES": "17",
+                "STP": "972.1",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  5.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 13.0",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 35.0",
+                "GUST": " 60.0",
+                "MAX": "  64.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  41.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.95",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "110010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-17",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  39.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  21.8",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1022.1",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "984.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 12.9",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 21.0",
+                "GUST": " 38.1",
+                "MAX": "  64.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.88",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-18",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.0",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  19.9",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1022.9",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "985.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.9",
+                "GUST": "999.9",
+                "MAX": "  57.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-19",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  45.3",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  30.9",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1020.4",
+                "SLP_ATTRIBUTES": "23",
+                "STP": "982.7",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.5",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": "999.9",
+                "MAX": "  57.9",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "010000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-20",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  32.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  21.6",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.2",
+                "SLP_ATTRIBUTES": "21",
+                "STP": "985.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.7",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": " 13.5",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 21.0",
+                "GUST": " 35.9",
+                "MAX": "  46.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  27.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.10",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "001000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-21",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  29.9",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  10.5",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1032.1",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "993.3",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  7.4",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.9",
+                "GUST": " 24.1",
+                "MAX": "  48.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  19.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-22",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  41.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  18.4",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1030.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "992.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 11.1",
+                "GUST": "999.9",
+                "MAX": "  53.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  19.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-23",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  42.3",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  21.7",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1024.4",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "986.5",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.7",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.0",
+                "GUST": "999.9",
+                "MAX": "  55.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  28.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-24",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  51.5",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  29.5",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1018.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "981.0",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  4.3",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  7.0",
+                "GUST": "999.9",
+                "MAX": "  69.1",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  30.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-25",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  58.8",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  38.1",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1013.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "976.6",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": "  9.8",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  6.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 15.9",
+                "GUST": " 22.9",
+                "MAX": "  75.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  42.1",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-26",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  61.6",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  34.1",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1014.5",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "977.8",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  5.1",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": "  8.0",
+                "GUST": "999.9",
+                "MAX": "  79.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  45.0",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-27",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  64.2",
+                "TEMP_ATTRIBUTES": "24",
+                "DEWP": "  40.2",
+                "DEWP_ATTRIBUTES": "24",
+                "SLP": "1014.3",
+                "SLP_ATTRIBUTES": "24",
+                "STP": "977.7",
+                "STP_ATTRIBUTES": "24",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "24",
+                "WDSP": "  8.8",
+                "WDSP_ATTRIBUTES": "24",
+                "MXSPD": " 19.0",
+                "GUST": " 27.0",
+                "MAX": "  79.0",
+                "MAX_ATTRIBUTES": " ",
+                "MIN": "  46.9",
+                "MIN_ATTRIBUTES": " ",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.44224,
+                    33.62972
+                ]
+            },
+            "properties": {
+                "STATION": "72219013874",
+                "DATE": "2025-02-28",
+                "LATITUDE": "33.62972",
+                "LONGITUDE": "-84.44224",
+                "ELEVATION": "308.2",
+                "NAME": "ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",
+                "TEMP": "  56.2",
+                "TEMP_ATTRIBUTES": "21",
+                "DEWP": "  27.5",
+                "DEWP_ATTRIBUTES": "21",
+                "SLP": "1016.4",
+                "SLP_ATTRIBUTES": "21",
+                "STP": "979.5",
+                "STP_ATTRIBUTES": "21",
+                "VISIB": " 10.0",
+                "VISIB_ATTRIBUTES": "21",
+                "WDSP": "  7.0",
+                "WDSP_ATTRIBUTES": "21",
+                "MXSPD": " 13.0",
+                "GUST": " 20.0",
+                "MAX": "  72.0",
+                "MAX_ATTRIBUTES": "*",
+                "MIN": "  45.0",
+                "MIN_ATTRIBUTES": "*",
+                "PRCP": " 0.00",
+                "PRCP_ATTRIBUTES": "G",
+                "SNDP": "999.9",
+                "FRSHTT": "000000"
+            }
+        }
+    ]
+}

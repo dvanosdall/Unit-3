@@ -4,7 +4,9 @@
 *  Set Up Your Workspace: Create a new directory named 'unit-3' in your web directory. Initialize a new Git repository within this directory.
 *  Create a Bubble Chart: Create a bubble chart using the simple dataset from Week 2. Save your JavaScript code in a file named 'bubblechart.js'. Please note that you will replace this code in your 'main.js' file in future activities
 *  Prepare Your Dataset: Refer to Lab 2-1, Lesson 2 - Data handout for instructions on how to find and format a multivariate dataset for the D3 lab assignment.
+**
 *  Commit Your Work: Commit your dataset and your 'unit-3' folder (including 'bubblechart.js') to your Git repository. Use the commit message "Activity 8". Don't forget to sync your changes.
+
 ******************************************/
 // Wait until the webpage is fully loaded before running the script
 document.addEventListener("DOMContentLoaded", function () {
