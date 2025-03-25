@@ -13,28 +13,24 @@
 
          <!--you can also place internal styles here;
              place these within <style> tags-->
-        
+
     </head>
 
     <body>
         <!--put your initial page content here-->
-        <!-- <div id="mymapandpanel">
-            <div id="mymap" title="Earthquakes"></div>
-            <div id="mypanel">
-                <img id="leftArrow" src="img/leftArrow.png" alt="Step Backward">
-                <input class='rangeslider' type='range'>
-                <img id="rightArrow" src="img/rightArrow.png" alt="Step Forward">
-                <p class="magnituderange"></p>
-                <input type="checkbox" id="showalleqs" />
-                <label for="showalleqs" id="showalleqslabel">Show all Earthquakes</label>
-            </div>
-        </div> -->
+        <div id="map-container">
+            <h1>United States and County Borders Topojson - 15 Cities from CSV</h1>
+            <!-- D3.js will insert the map here -->
+            <svg id="map"></svg> <!-- Use SVG as the container for the map -->
+        </div>
 
         <!--you can also use this space for internal scripts;
         place these within <script> tags-->
 
         <!--put your external script links here-->
         <script type="text/javascript" src="lib/d3.v7.js"></script>
-        <script type="text/javascript" src="js/bubblechart.js"></script>
+        <script src="https://d3js.org/topojson.v3.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <!-- <script type="text/javascript" src="js/bubblechart.js"></script> -->
     </body>
 </html>
