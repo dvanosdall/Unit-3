@@ -1,36 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-            <title></title>
 
-        <!--put your external stylesheet links here-->
-        <link rel="stylesheet" href="css/style.css">
-        <!--[if IE<9]>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title></title>
+
+    <!--put your external stylesheet links here-->
+    <link rel="stylesheet" href="css/style.css">
+    <!--[if IE<9]>
             <link rel="stylesheet" href="css/style.ie.css">
         <![endif]-->
 
-         <!--you can also place internal styles here;
+    <!--you can also place internal styles here;
              place these within <style> tags-->
 
-    </head>
+</head>
 
-    <body>
-        <!--put your initial page content here-->
-        <div id="map-container">
-            <h1>United States and County Borders Topojson - 15 Cities from CSV</h1>
-            <!-- D3.js will insert the map here -->
-            <svg id="map"></svg> <!-- Use SVG as the container for the map -->
-        </div>
+<body>
+    <!--put your initial page content here-->
+    <div id="map-container">
+        <h1>United States and County Borders Topojson - 15 Cities from CSV</h1>
+        <!-- D3.js will insert the map here -->
+        <svg id="map"></svg>
+        <br><br>
+        <svg id="barchart"></svg>
+    </div>
 
-        <!--you can also use this space for internal scripts;
+    <!-- Data source attribution -->
+    <p style="font-size: 10px; font-family: Helvetica; color: #666; text-align: center; margin-top: 20px;">
+        Data sources: <a href="https://www.ncei.noaa.gov/" target="_blank">National Centers for Environmental
+            Information (NCEI)</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>.
+        Map data available at these websites.
+    </p>
+
+    <!--you can also use this space for internal scripts;
         place these within <script> tags-->
 
-        <!--put your external script links here-->
-        <script type="text/javascript" src="lib/d3.v7.js"></script>
-        <script src="https://d3js.org/topojson.v3.min.js"></script>
-        <script type="text/javascript" src="js/main.js"></script>
-        <!-- <script type="text/javascript" src="js/bubblechart.js"></script> -->
-    </body>
+    <!--put your external script links here-->
+    <script type="text/javascript" src="lib/d3.v7.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <!-- <script type="text/javascript" src="js/bubblechart.js"></script> -->
+</body>
+
 </html>
