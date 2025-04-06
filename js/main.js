@@ -79,6 +79,20 @@ document.addEventListener("DOMContentLoaded", function () {
                 .scale(1000)
                 .translate([width / 2 + shiftX, height / 2 + shiftY]))
 
+        // Create a tooltip element for the map
+        const toolTip = d3.select("body")
+            .append("div")
+            .attr("class", "map-tooltip")
+            .style("position", "absolute")
+            .style("visibility", "hidden")
+            .style("background-color", "rgba(255, 255, 255, 0.8)")
+            .style("border", "1px solid #ccc")
+            .style("padding", "5px")
+            .style("border-radius", "3px")
+            .style("box-shadow", "2px 2px 8px rgba(0,0,0,0.2)")
+            .style("font-family", "Arial, sans-serif")
+            .style("font-size", "12px");
+
         // Create graticules for latitudes and longitudes
         const graticule = d3.geoGraticule();
 
@@ -189,7 +203,8 @@ document.addEventListener("DOMContentLoaded", function () {
                         const [x, y] = path.projection()([longitude, latitude]);
 
                         // Add the city circle
-                        cityLayer.append("circle")
+                        const cityCircle = cityLayer.append("circle")
+                            .datum(city)
                             .attr("cx", x)
                             .attr("cy", y)
                             .attr("r", 7)
@@ -204,10 +219,28 @@ document.addEventListener("DOMContentLoaded", function () {
                             .style("fill", "black")
                             .style("font-weight", "bold")
                             .text(cityName);
+
+                        // Add tooltip events to city circles
+                        cityCircle.on("mouseover", function (event, d) {
+                            const cityName = d.CITY;
+                            const cityValue = d[currentParam];
+                            const paramLabel = paramTextMap[currentParam];
+
+                            toolTip.style("visibility", "visible")
+                                .html(`City: ${cityName}<br>${paramLabel}: ${cityValue}`);
+                        })
+                            .on("mousemove", function (event) {
+                                // Position the tooltip near the mouse cursor
+                                toolTip.style("top", (event.pageY + 5) + "px")
+                                    .style("left", (event.pageX + 5) + "px");
+                            })
+                            .on("mouseout", function () {
+                                // Hide tooltip when not hovering over a city
+                                toolTip.style("visibility", "hidden");
+                            });
                     }
                 }
             });
-
             cityLayer.raise();
         }
 
@@ -242,6 +275,20 @@ document.addEventListener("DOMContentLoaded", function () {
             // Define the color scale for the selected parameter
             const colorScale = colorScales[currentParam];
 
+            // Create a tooltip element for the map and bar chart
+            const barToolTip = d3.select("body")
+                .append("div")
+                .attr("class", "map-tooltip")
+                .style("position", "absolute")
+                .style("opacity", 0)  // Start with opacity 0 for smooth fade-in/fade-out
+                .style("background-color", "rgba(255, 255, 255, 0.8)")
+                .style("border", "1px solid #ccc")
+                .style("padding", "5px")
+                .style("border-radius", "3px")
+                .style("box-shadow", "2px 2px 8px rgba(0,0,0,0.2)")
+                .style("font-family", "Arial, sans-serif")
+                .style("font-size", "12px");
+
             // Create the bars for the bar chart
             const bars = barSvg.selectAll(".bar").data(cityData);
 
@@ -255,7 +302,26 @@ document.addEventListener("DOMContentLoaded", function () {
                 .attr("height", (d) => barHeight - 50 - yScale(d.value))
                 .attr("stroke", "black")
                 .attr("stroke-width", 1)
-                .style("fill", (d) => colorScale(d.value));
+                .style("fill", (d) => colorScale(d.value))
+                .on("mouseover", (event, d) => {
+                    barToolTip.transition()  // Use transition for opacity
+                        .duration(200)
+                        .style("opacity", 0.9);
+
+                    barToolTip.html(`<strong>${d.city}</strong><br/>${paramTextMap[currentParam]}: ${d.value}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mousemove", (event) => {
+                    barToolTip
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", () => {
+                    barToolTip.transition()  // Smooth transition for fading out
+                        .duration(300)
+                        .style("opacity", 0);
+                });
 
             bars.exit().remove();
 
