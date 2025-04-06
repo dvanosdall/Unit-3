@@ -20,28 +20,31 @@
 <body>
     <!--put your initial page content here-->
     <div id="map-container">
-        <h1>United States and County Borders Topojson - 15 Cities from CSV</h1>
         <!-- D3.js will insert the map here -->
-        <svg id="map"></svg>
+        <div class="chart-container">
+            <svg id="map"></svg>
+        </div>
+        <div id="dropdown"></div>
+        <div class="chart-container">
+            <svg align="center" id="barchart"></svg>
+        </div>
         <br><br>
-        <svg id="barchart"></svg>
     </div>
 
-    <!-- Data source attribution -->
-    <p style="font-size: 10px; font-family: Helvetica; color: #666; text-align: center; margin-top: 20px;">
-        Data sources: <a href="https://www.ncei.noaa.gov/" target="_blank">National Centers for Environmental
-            Information (NCEI)</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>.
-        Map data available at these websites.
-    </p>
+    <!-- Data source attribution in its own container at the bottom -->
+    <div id="data-container">
+        <p id="data-attribution">
+            Data sources: <a href="https://www.ncei.noaa.gov/" target="_blank">National Centers for Environmental
+                Information (NCEI)</a> and
+            <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Map data available at these
+            websites.
+        </p>
+    </div>
 
-    <!--you can also use this space for internal scripts;
-        place these within <script> tags-->
-
-    <!--put your external script links here-->
+    <!-- External scripts -->
     <script type="text/javascript" src="lib/d3.v7.js"></script>
     <script src="https://d3js.org/topojson.v3.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
-    <!-- <script type="text/javascript" src="js/bubblechart.js"></script> -->
 </body>
 
 </html>
